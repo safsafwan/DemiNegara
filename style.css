@@ -1,0 +1,24 @@
+/* 
+  FriendCircle – Anonymous Orientation Survey Dashboard 
+  Global Styles & Theme Configuration
+*/
+
+:root {
+  --bg-main: #F4F7FB;
+  --card-bg: #FFFFFF;
+  --text-main: #1E293B;
+  --text-muted: #64748B;
+  --primary: #4F46E5;
+  --primary-hover: #4338CA;
+  --border-subtle: rgba(226, 232, 240, 0.8);
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.04);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-main);
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+}

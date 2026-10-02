@@ -1,0 +1,6 @@
+{
+  "name": "FriendCircle – Anonymous Orientation Survey Dashboard",
+  "description": "Papan pemuka tinjauan anonim orientasi untuk kawan-kawan dengan data sintetik, visualisasi Chart.js, analitik interaktif, dan borang respons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
